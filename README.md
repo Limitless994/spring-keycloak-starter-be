@@ -1,6 +1,6 @@
-# ExampleProject Core
+# Spring Keycloak Starter (backend)
 
-Spring Boot backend example with Keycloak authentication, PostgreSQL and Docker. The Angular frontend lives in [ExampleProject-FE](https://github.com/Limitless994/ExampleProject-FE).
+Spring Boot backend example with Keycloak authentication, PostgreSQL and Docker. The Angular frontend lives in [spring-keycloak-starter-fe](https://github.com/Limitless994/spring-keycloak-starter-fe).
 
 ---
 
