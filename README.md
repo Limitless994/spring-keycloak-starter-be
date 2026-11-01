@@ -1,6 +1,6 @@
-# Hi, I'm Davide Sacco
+# ExampleProject Core
 
-I am a full-stack developer and AWS Certified Solutions Architect. My passion for computer science and constant curiosity about emerging technologies have led me to develop significant experience as a full-stack developer. Currently, as a technical analyst, I focus on designing sophisticated microservices architectures. I aim to continue my journey toward becoming a Solutions Architect, leveraging my creativity and expertise to drive technological evolution in companies, always staying updated with the latest industry trends.
+Spring Boot backend example with Keycloak authentication, PostgreSQL and Docker. The Angular frontend lives in [ExampleProject-FE](https://github.com/Limitless994/ExampleProject-FE).
 
 ---
 
